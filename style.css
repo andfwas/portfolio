@@ -1,0 +1,43 @@
+html {
+  font-family: 'BioRhyme Expanded', serif;
+  color: white;
+}
+header {
+  width: 50%;
+  text-align: center;
+}
+img {
+  width: 100%;
+  border-radius: 1vw;
+  margin-bottom: 3vw;
+  transition: 0.2s;
+}
+img:hover {
+  width: 150%;
+}
+main {
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-start;
+  width: 30%;
+  margin-left: 10%;
+}
+
+a {
+  text-decoration: none;
+}
+body {
+  background-color: black;
+  background-image: url("./images/Resume.png");
+  background-repeat: no-repeat;
+  background-position: right 15% top 5%;
+  background-attachment: fixed;
+  background-size: 40%;
+}
+h1 {
+  font-size: 2vw
+}
+h2 {
+  font-size: 1.5vw;
+  margin-bottom: 3vw;
+}
