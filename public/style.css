@@ -30,11 +30,12 @@ a {
 }
 body {
   background-color: black;
-  background-image: url("./images/Resume.png");
+  background-image: url("./images/AndySmart-Resume.png");
   background-repeat: no-repeat;
   background-position: right 15% top 5%;
   background-attachment: fixed;
   background-size: 40%;
+
 }
 h1 {
   font-size: 2vw
